@@ -1,5 +1,6 @@
 body{
     background-color: #080C20;
+    overflow-x: hidden;
 }
 .bg-body-tertiary {
     background-color: #080C20 !important;
@@ -23,16 +24,67 @@ body{
 }
 .paragraph-1-text {
     text-align: center;
-    color: #ffffff;
+    color: #777F98;
     margin: 30px 0 0 0;
+    font-weight: 100;
 }
 .mouse-scroll {
     display: block;
     margin: 60px auto;
 }
 .left-illustration {
-    margin-left: -40px;
+    margin-left: -100px;
 }
 .right-illustration {
-    margin-right: 50px;
+    margin-left: 150px;
 }
+
+/* Second section */
+.section-2 {
+    margin: 200px;
+}
+.box-1 {
+    width: 150px;
+    height: 150px;
+    background-color: #093F68;
+    border-radius: 45px;
+}
+.pass-img {
+    padding: 22px !important; 
+}
+.heading-2-text {
+    margin: 50px 0 0 0;
+    font-family: 'Manrope', sans-serif;
+    color: #ffffff;
+}
+.paragraph-2-text {
+    margin: 30px 0 0 0;
+    color: #777F98;
+    font-weight: 100;
+}
+.financial-box {
+    margin-top: 55px;
+    padding-right: 5px;
+}
+.work-box {
+    margin-top: 55px;
+    padding-left: -5px;
+}
+.passion-box {
+    padding-right:5px;
+}
+.lifestyle-box {
+    padding-right: 5px;
+}
+
+/* Third section */
+.heading-3-text {
+    color: #ffffff;
+    font-family: 'Manrope', sans-serif;
+}
+.paragraph-3-text {
+    margin-top: 30px;
+    color: #777F98;
+}
+
+/* Fourth section */
