@@ -88,3 +88,56 @@ body{
 }
 
 /* Fourth section */
+.section-3 {
+    margin: 80px 0 0 0;
+}
+.card-1 {
+    width: 445px;
+    height: 425px;
+    background: #093F68;
+    border-radius: 15px;
+    float: right;
+    padding: 0 38px 0 38px;
+}
+#free-icon {
+    margin: -30px 0 0 38px;
+}
+.card-2 {
+    position: absolute;
+    width: 445px;
+    height: 425px;
+    background: #3EE9E5;
+    border-radius: 15px;
+    padding: 0 38px 0 38px;
+}
+#paid-icon {
+    margin: -30px 0 0 38px;
+}
+.heading-4-text-1 {
+    margin: 40px 0 0 0;
+    color: #ffffff;
+}
+.paragraph-4-text-1 {
+    color: #ffffff;
+    margin: 30px 0 0 0;
+}
+.free {
+    color: #ffffff;
+    margin: 35px 0 0 0;
+}
+.heading-4-text-2 {
+    margin: 40px 0 0 0;
+    color: #080C20;
+}
+.paragraph-4-text-2 {
+    color: #080C20;
+    margin: 30px 0 0 0;
+}
+.paid {
+    color: #080C20;
+    margin: 35px 0 0 0;
+}
+.paid-month {
+    font-weight: 100;
+    font-size: 20px;
+}
