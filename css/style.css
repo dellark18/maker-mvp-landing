@@ -149,6 +149,7 @@ body{
 /* Last Section */
 .footer {
     margin: 150px 0 -100px 0;
+    padding: 0 0 120px 0;
 }
 .footer-text {
     margin: 70px 0 0 0;
@@ -185,6 +186,6 @@ form input {
 
 }
 .btn:hover {
-    background-color: ;
+    background-color: #080C20;
     border: 2px solid #3EE9E5;;
 }
