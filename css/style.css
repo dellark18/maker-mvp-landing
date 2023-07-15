@@ -36,6 +36,9 @@ body{
 .left-illustration {
     margin-left: -100px;
 }
+.mobile-illustration {
+    display: none;
+}
 .right-illustration {
     margin-left: 150px;
 }
@@ -199,3 +202,24 @@ form input {
 }
 
 /* Mobile responsiveness */
+@media (min-width: 319px) and (max-width: 480px) {
+    .maker-logo {
+        margin-left: 125px;
+    }
+    .left-illustration {
+        display: none;
+    }
+    .right-illustration {
+        display: none;
+    }
+    .bg-hero-img {
+        display: none;
+    }
+    .footer-img {
+        display: none;
+    }
+    .body{
+        background-color: #080C20;
+        overflow-x: hidden;
+    }
+}
