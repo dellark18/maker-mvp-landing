@@ -15,6 +15,7 @@ body{
 }
 .heading-1-text {
     text-align: center;
+    position: relative;
     color: #ffffff;
     margin: 70px 0 0 0;
     font-family: 'Manrope', sans-serif;
@@ -196,3 +197,5 @@ form input {
     color: #FF2965;
     margin-top: 10px;
 }
+
+/* Mobile responsiveness */
