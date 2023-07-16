@@ -206,13 +206,6 @@ form input {
 
 /* Mobile responsiveness */
 @media (min-width: 319px) and (max-width: 480px) {
-    .container {
-
-    }
-    body{
-        background-color: #080C20;
-        overflow-x: hidden;
-    }
     .maker-logo {
         margin-left: 125px;
     }
@@ -296,9 +289,6 @@ form input {
         width: 78%;
         margin-left: 42px;
         margin-top: 22px;
-    }
-    .body-fluid {
-        margin: 0;
     }
 
 }
