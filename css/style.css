@@ -271,6 +271,7 @@ form input {
     }
     .footer {
         margin-top: 500px;
+        padding: 10px;
     }
     .subscribe {
         margin: 40px auto;
@@ -290,5 +291,5 @@ form input {
         margin-left: 42px;
         margin-top: 22px;
     }
-
+    * {border:1px solid red}
 }
