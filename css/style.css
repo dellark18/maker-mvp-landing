@@ -297,5 +297,8 @@ form input {
         margin-left: 42px;
         margin-top: 22px;
     }
+    .body-fluid {
+        margin: 0;
+    }
 
 }
