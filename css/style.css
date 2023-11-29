@@ -1,6 +1,7 @@
 body{
     background-color: #080C20;
     overflow-x: hidden;
+    /* border: solid red; */
 }
 .bg-body-tertiary {
     background-color: #080C20 !important;
